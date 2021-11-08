@@ -22,8 +22,8 @@
 
 //Credenciales para poder conectarnos a la red-WiFi sustituya dentro de las comillas
 
-  const char* ssid = "Rigby"; //Sustituya NOMBRE_WiFi por el nombre de su red WiFi
-  const char* password = "PanConPollo";	//Sustituya Contraseña_WiFi por su contraseña de red WiFi
+  const char* ssid = "galileo"; //Sustituya NOMBRE_WiFi por el nombre de su red WiFi
+  const char* password = "";	//Sustituya Contraseña_WiFi por su contraseña de red WiFi
 
 
   const char *user = "aquality";
